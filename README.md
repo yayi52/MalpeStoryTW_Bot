@@ -21,9 +21,9 @@
 1. 安裝 Python 3
 2. 安裝必要套件
 3. 設定config.ini：
-TOKEN=<你的Bot Token>
-CHANNEL_ID=<要發送訊息的頻道ID>
-API_KEY=<你的MapleStory API Key>
+- TOKEN=<你的Bot Token>
+- CHANNEL_ID=<要發送訊息的頻道ID>
+- API_KEY=<你的MapleStory API Key>
 
 使用方法
 ----------
