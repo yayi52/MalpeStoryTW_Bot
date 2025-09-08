@@ -20,3 +20,14 @@
 ----------
 1. 安裝 Python 3
 2. 安裝必要套件
+3. 設定config.ini：
+TOKEN=<你的Bot Token>
+CHANNEL_ID=<要發送訊息的頻道ID>
+API_KEY=<你的MapleStory API Key>
+
+使用方法
+----------
+1. 將 Bot 邀請到 Discord 伺服器（確保勾選 `bot` 和 `applications.commands` 權限）
+2. 執行程式
+3. 在 Discord 頻道使用 Slash 指令
+4. Bot 會回傳角色資訊（等級、職業、伺服器、頭像等）
